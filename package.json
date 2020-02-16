@@ -1,0 +1,21 @@
+{
+    "name": "rainbow",
+    "displayName": "Rainbow Theme",
+    "description": "A New Awesome Rainbow Theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rainbow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rainbow-color-theme.json"
+            }
+        ]
+    }
+}
