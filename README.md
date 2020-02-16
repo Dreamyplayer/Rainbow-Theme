@@ -1,16 +1,58 @@
-# `🌈`Rainbow Theme
+# 🌈 Rainbow Theme
 
-## This is the README for your extension "rainbow"
+> An Awesome 🌈 Rainbow Colored Theme and Made for Eye Comfort 👀.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## **Awesomeness**
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### **CSS**
 
-### For more information
+![CSS](https://i.imgur.com/FhZ7LSh.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+---
 
-**Enjoy!**
+### **JavaScript/JSX**
+
+![JS](https://i.imgur.com/a4Q6QT7.png)
+
+---
+
+### **TypeScript/TSX**
+
+![TS](https://i.imgur.com/vvB5vuQ.png)
+
+---
+
+### **Dart**
+
+![DART](https://i.imgur.com/P8zs1lf.png)
+
+---
+
+### **Python**
+
+![Python](https://i.imgur.com/JLMjliT.png)
+
+---
+
+### **JSON**
+
+![JSON](https://i.imgur.com/a4Q6QT7.png)
+
+---
+
+### **HTML**
+
+![HTML](https://i.imgur.com/UcARFNV.png)
+
+---
+
+### **Markdown**
+
+![MD](https://i.imgur.com/qJYIkbt.png)
+
+---
+
+**Enjoy!** </br>
+
+---
+Copyright © [♔ Dяεαмү アlαүεя ♔](https://github.com/Dreamyplayer/Rainbow-Theme)
