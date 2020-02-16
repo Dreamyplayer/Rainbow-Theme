@@ -1,8 +1,8 @@
 {
     "name": "rainbow",
     "displayName": "Rainbow Theme",
-    "description": "A New Awesome Rainbow Theme.",
-    "version": "0.0.1",
+    "description": "An Awesome 🌈 Rainbow Colored Theme and Made for Eye Comfort 👀.",
+    "version": "1.6.0",
     "engines": {
         "vscode": "^1.42.0"
     },
