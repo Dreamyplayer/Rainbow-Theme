@@ -12,7 +12,7 @@
 
 ### **JavaScript/JSX**
 
-![JS](https://i.imgur.com/a4Q6QT7.png)
+![JS](https://i.imgur.com/yZKe602.png)
 
 ---
 
@@ -52,7 +52,12 @@
 
 ---
 
+#### Quick Links
+
+- [GitHub Repository](https://github.com/Dreamyplayer/Rainbow-Theme)
+- [Issues/Questions](https://github.com/Dreamyplayer/Rainbow-Theme/issues)
+
 **Enjoy!** </br>
 
 ---
-Copyright © [♔ Dяεαмү アlαүεя ♔](https://github.com/Dreamyplayer/Rainbow-Theme)
+Copyright © 2020 [♔ Dяεαмү アlαүεя ♔.](https://github.com/Dreamyplayer/Rainbow-Theme)
