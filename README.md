@@ -1,6 +1,6 @@
-# 🌈 Rainbow Theme
+# 🌈 [Rainbow Theme](https://marketplace.visualstudio.com/items?itemName=Saikumarchinna.rainbow)
 
-> An Awesome 🌈 Rainbow Colored Theme and Made for Eye Comfort 👀.
+> An Awesome 🌈 [Rainbow](https://marketplace.visualstudio.com/items?itemName=Saikumarchinna.rainbow) Colored Theme and Made for Eye Comfort 👀.
 
 ## **Awesomeness**
 
