@@ -1,21 +1,61 @@
 {
-    "name": "rainbow",
-    "displayName": "Rainbow Theme",
-    "description": "An Awesome 🌈 Rainbow Colored Theme and Made for Eye Comfort 👀.",
-    "version": "1.6.0",
-    "engines": {
-        "vscode": "^1.42.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Rainbow",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Rainbow-color-theme.json"
-            }
-        ]
-    }
+  "name": "rainbow",
+  "publisher": "Saikumarchinna",
+  "displayName": "Rainbow Theme",
+  "description": "An Awesome 🌈 Rainbow Colored Theme and Made for Eye Comfort 👀.",
+  "icon": "Rainbow1.png",
+  "galleryBanner": {
+    "color": "#011E30",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/Dreamyplayer/Rainbow-Theme/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dreamyplayer/Rainbow-Theme.git"
+  },
+  "version": "1.11.2",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "Rainbow",
+    "theme",
+    "dark",
+    "Color",
+    "Rainbow-theme",
+    "color-theme",
+    "vscode theme",
+    "popular theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rainbow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainbow-color-theme.json"
+      },
+      {
+        "label": "Rainbow Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainbow-Dark-color-theme.json"
+      },
+      {
+        "label": "Rainbow Extended",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainbow-Extended-color-theme.json"
+      },
+      {
+        "label": "Rainbow Syntax Highlighter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rainbow-Syntax-Highlighter-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "publisherDisplayName": "Dreamy Player",
+  }
 }
